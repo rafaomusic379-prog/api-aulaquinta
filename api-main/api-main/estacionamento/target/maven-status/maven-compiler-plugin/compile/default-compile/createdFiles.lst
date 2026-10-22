@@ -1,0 +1,3 @@
+com\app\estacionamento\dto\ProdutoResponseDTO.class
+com\app\estacionamento\exception\GlobalExceptionHandler.class
+com\app\estacionamento\dto\ProdutoRequestDTO.class
